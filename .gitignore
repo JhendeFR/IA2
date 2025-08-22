@@ -1,2 +1,4 @@
 DataSet P01/
 Lab02/dataset_dividido_v1/
+Lab02/best_vgg19_tl.pt
+Lab02/best_cnn_from_scratch.pt
