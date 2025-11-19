@@ -5,6 +5,8 @@ ERSGAN/
 Lab02/best_vgg19_tl.pt
 Lab02/best_cnn_from_scratch.pt
 Lab03/results_rnn/
+Lab04/data/
+Lab05/dataset_dividido_v1/
 Lab06/dataset_dividido_v1/
 Lab06/best_residuos_transformer.pt
 Lab06/best_tinyvit_residuos.pt
